@@ -1,11 +1,5 @@
-# Project1
-## learning data engineer
+# DS525
 
-1.Python 
+Moodle: https://moodle.swu.ac.th/course/view.php?id=2271
 
-2.NoSQL
-
-3.Data warehouse
-
-4.Data lake
-
+Dataset: https://api.github.com/events
