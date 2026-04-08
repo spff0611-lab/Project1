@@ -39,4 +39,11 @@ docker-compose down
 ```sh
 python create_tables.py
 python etl.py
-```
+``` 
+
+
+# pip install package
+1. Docker run -p 8080: 80 nginx set port 8088.this post is a local host.
+    run on the web-used
+    close the web- user = ctl + c
+    
